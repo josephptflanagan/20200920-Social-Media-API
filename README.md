@@ -1,7 +1,7 @@
 # 20200920 Social Media API
 
 ## GitHub Repository
-[Github]()
+[Github](https://github.com/josephptflanagan/20200920-Social-Media-API)
 
 ## Video Walkthrough
 [Walkthrough]()
