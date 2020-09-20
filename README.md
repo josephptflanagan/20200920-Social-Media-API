@@ -4,7 +4,7 @@
 [Github](https://github.com/josephptflanagan/20200920-Social-Media-API)
 
 ## Video Walkthrough
-[Walkthrough]()
+[Walkthrough](https://drive.google.com/file/d/16Shvu3iP3TWzYsyZxQ8kfb9xO-7UbZjm/view)
 
 ### Description
 This program serves as an educational exercise to build the back end of a simple social media platform using MongoDB as the databasing software. This excursion into NoSQL comes after weeks of work with exclusively SQL databases.</br></br>
